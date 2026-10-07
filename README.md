@@ -16,7 +16,7 @@ Dataset: 689 employee records with 15+ features
 📊 Live Demo
 
 🔗 Deployed App: [Render Cloud/Share](https://salary-predictor-ml-web-app.onrender.com/)
-🌐 GitHub Repo: 
+🌐 GitHub Repo: https://github.com/prajjwalbajpai95a-art/Salary-Prediction-Model-Using-Linear-Regression-.git
 
 🛠 Tech Stack
 
@@ -34,7 +34,7 @@ Git
 
 Clone & Setup
 bash
-git clone 
+git clone https://github.com/prajjwalbajpai95a-art/Salary-Prediction-Model-Using-Linear-Regression-.git
 cd Salary-Prediction-Deployed-Project-March-2026
 Install Dependencies
 bash
